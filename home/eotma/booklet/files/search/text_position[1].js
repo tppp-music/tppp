@@ -1,0 +1,1 @@
+positionForPages[1]={"page":1,"positions":[{"word":"THE PRIMARY PHASE PRINCIPLE","left":0.087131,"top":0.025479,"width":0.825154,"height":0.040926},{"word":"ECHOES OF THE MECHATRONIC AGE","left":0.058922,"top":0.931122,"width":0.883510,"height":0.038519}]};

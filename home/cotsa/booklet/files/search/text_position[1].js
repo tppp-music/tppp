@@ -1,0 +1,1 @@
+positionForPages[1]={"page":1,"positions":[{"word":"THE PRIMARY PHASE PRINCIPLE","left":0.087131,"top":0.017958,"width":0.825154,"height":0.040926},{"word":"COLLAPSE OF THE SIGHTLESS AGE","left":0.103526,"top":0.943541,"width":0.792949,"height":0.036111}]};
